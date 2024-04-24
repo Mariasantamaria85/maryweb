@@ -1,0 +1,23 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+@font-face {
+    font-family: "Poppins_bold";
+    src: url(/fonts/Poppins-Bold.woff);
+}
+@font-face {
+    font-family: "Poppins_regular";
+    src: url(/fonts/Poppins-Regular.woff);
+}
+@font-face {
+    font-family: "Courier_bold";
+    src: url(/fonts/CourierPrime-Bold.woff);
+}
+@font-face {
+    font-family: "Courier";
+    src: url(/fonts/CourierPrime-Regular.woff);
+}
+@font-face {
+    font-family: "Techmono";
+    src: url(/fonts/ShareTechMono-Regular.woff);
+}
